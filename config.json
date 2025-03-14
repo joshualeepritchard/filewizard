@@ -1,0 +1,10 @@
+{
+    "target_folders": [
+        "C:/Users/joshp/OneDrive/Desktop/Onedrive backup - Copy"
+    ],
+    "organised_folder": "C:/Users/joshp/OneDrive/Desktop/Organised test",
+    "hash_algorithm": "sha256",
+    "skip_larger_than": 0,
+    "multiprocessing_cores": 0,
+    "categories": []
+}
